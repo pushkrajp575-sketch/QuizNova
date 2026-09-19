@@ -101,6 +101,11 @@ streamlit run app.py
 
 ## 9. Screenshots
 
+### Home Page
+
+![Home Page](Home_Page.png)
+
+
 ### Home
 
 ![Home](Home.png)
@@ -109,9 +114,7 @@ streamlit run app.py
 
 ![Home Selection](Home_.png)
 
-### Home Page
 
-![Home Page](Home_Page.png)
 
 ### Quiz
 

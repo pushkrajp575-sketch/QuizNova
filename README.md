@@ -119,6 +119,10 @@ streamlit run app.py
 
 ![Quiz](Quiz.png)
 
+### Result
+
+![Result](Result.png)
+
 
 ### Result Check
 

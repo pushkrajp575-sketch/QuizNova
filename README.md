@@ -103,28 +103,28 @@ streamlit run app.py
 
 ### Home
 
-![Home](screenshots/Home.png)
+![Home](Home.png)
 
 ### Home Selection
 
-![Home Selection](screenshots/Home_.png)
+![Home Selection](Home_.png)
 
 ### Home Page
 
-![Home Page](screenshots/Home_Page.png)
+![Home Page](Home_Page.png)
 
 ### Quiz
 
-![Quiz](screenshots/Quiz.png)
+![Quiz](Quiz.png)
 
 ### Result
 
-![Result](screenshots/Result.png)
+![Result](Result.png)
 
 ### Result Check
 
-![Result Check](screenshots/Result_Check.png)
+![Result Check](Result_Check.png)
 
 ### Result Check 2
 
-![Result Check 2](screenshots/Result_check2.png)
+![Result Check 2](Result_check2.png)

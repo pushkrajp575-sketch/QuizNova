@@ -115,14 +115,10 @@ streamlit run app.py
 ![Home Selection](Home_.png)
 
 
-
 ### Quiz
 
 ![Quiz](Quiz.png)
 
-### Result
-
-![Result](Result.png)
 
 ### Result Check
 

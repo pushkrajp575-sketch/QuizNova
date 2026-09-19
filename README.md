@@ -90,7 +90,14 @@ Python 3.x
 
 ```bash
 pip install -r requirements.txt
+```
+### Run the project
 
+```bash
+streamlit run app.py
+```
+
+---
 
 ## 9. Screenshots
 

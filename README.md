@@ -90,3 +90,34 @@ Python 3.x
 
 ```bash
 pip install -r requirements.txt
+
+
+## 9. Screenshots
+
+### Home
+
+![Home](screenshots/Home.png)
+
+### Home Selection
+
+![Home Selection](screenshots/Home_.png)
+
+### Home Page
+
+![Home Page](screenshots/Home_Page.png)
+
+### Quiz
+
+![Quiz](screenshots/Quiz.png)
+
+### Result
+
+![Result](screenshots/Result.png)
+
+### Result Check
+
+![Result Check](screenshots/Result_Check.png)
+
+### Result Check 2
+
+![Result Check 2](screenshots/Result_check2.png)
